@@ -102,7 +102,7 @@ export default function Home() {
           <Link href="/dashboard">
            <Button 
            size="lg"
-           className="bg-white text-blue-600 font-semibold hover:bg-gray-100 animate:bounce-infinite"
+           className="bg-white text-blue-600 font-semibold hover:bg-gray-100 animate-bounce "
            >Start Free Trial</Button>
           </Link>
         </div>
